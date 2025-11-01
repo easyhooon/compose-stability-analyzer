@@ -5,6 +5,7 @@
   <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
   <a href="https://github.com/skydoves/compose-stability-analyzer/actions"><img alt="Build Status" src="https://github.com/skydoves/compose-stability-analyzer/workflows/Android%20CI/badge.svg"/></a>
   <a href="https://github.com/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a>
+  <a href="https://github.com/doveletter"><img alt="Profile" src="https://skydoves.github.io/badges/dove-letter.svg"/></a><br>
 </p>
 
 ![preview](art/preview0.png)
