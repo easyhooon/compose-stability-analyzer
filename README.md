@@ -26,6 +26,10 @@ The sponsors listed below made it possible for this project to be released as op
 
 **[CodeRabbit](https://coderabbit.link/Jaewoong)** is an AI-powered code review platform that integrates directly into pull-request workflows and IDEs, examining code changes in context and suggesting improvements.
 
+<a href="https://firebender.com/?utm_source=skydoves"><img alt="Profile" src="art/logo-firebender.png" width="300"/></a>
+
+**[Firebender](https://firebender.com/?utm_source=skydoves)** is the most powerful AI coding agent in Android Studio. It can create entire compose UIs from Figma links, generate UML diagrams, and even understand your voice input.
+
 ## Compose Stability Analyzer Plugin
 
 The Compose Stability Analyzer IntelliJ Plugin brings **visual stability analysis** directly into your IDE (Android Studio), helping you identify and fix performance issues while you code. Instead of waiting for runtime or build-time reports, you get instant feedback right in Android Studio or IntelliJ IDEA.
